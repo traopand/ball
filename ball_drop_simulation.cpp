@@ -1,7 +1,4 @@
 //
-//  main.cpp
-//  a2_q2
-//
 //  Created by Tara Rao-Pandit on 2020-10-11.
 //  Copyright © 2020 Tara Rao-Pandit. All rights reserved.
 //
@@ -17,8 +14,6 @@ using namespace std;
 
 /*
  Program Testing:
-The output time for part 2 was 55.3 seconds which gave the closest total distance value to 15,000. This was verified using an online website to ensure that the answer was correct to 1 decimal place.
- 
 To test whether the code worked I picked distance values from the total distance column and then used an online calculator to
  figure out the time taken to travel that distance. I then verified whether the calculated time aligned with the time in the table
  corresponding to the chosen total distance.
